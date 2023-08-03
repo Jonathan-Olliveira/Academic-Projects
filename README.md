@@ -6,7 +6,7 @@ This repository contains a collection of my academic projects developed during m
 How to use
 Feel free to explore, clone or fork this repository. Each project has its own directory, containing files and specific instructions for use and execution.
 
-git clone https://github.com/your-user/academic-projects.git
+git clone https://github.com/Jonathan-Olliveira/Academic-Projects.git
 cd academic-projects/project-name
 
 Contact
@@ -22,7 +22,7 @@ Este repositório contém uma coleção dos meus projetos acadêmicos desenvolvi
 Como utilizar
 Sinta-se à vontade para explorar, clonar ou fazer um fork deste repositório. Cada projeto possui seu próprio diretório, contendo os arquivos e instruções específicas de uso e execução.
 
-git clone https://github.com/seu-usuario/academic-projects.git
+git clone https://github.com/Jonathan-Olliveira/Academic-Projects.git
 cd academic-projects/nome-do-projeto
 
 Contato
