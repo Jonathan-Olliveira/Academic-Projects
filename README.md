@@ -1,5 +1,5 @@
-# Academic Projects
-Lg EN
+# Academic Projects 👨‍🎓
+Lg 
 
 This repository contains a collection of my academic projects developed during my educational journey. Each project is a demonstration of my learning and skills in different areas, including programming, data analysis, web development, among others.
 
